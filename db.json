@@ -1,25 +1,25 @@
 {
-  "rewards": [
+  "task": [
     {
       "id": 1,
-      "reward_name": "The 100th",
-      "reward_description": "You've reached 100 days in the company. Congratulations!",
-      "reward_progress": "54",
-      "reward_status": "unclaimed"
+      "name": "The 100th",
+      "description": "You've reached 100 days in the company. Congratulations!",
+      "progress": 54,
+      "status": "unclaimed"
     },
     {
       "id": 2,
-      "reward_name": "Multitasker",
-      "reward_description": "Complete 75 tasks in one month.",
-      "reward_progress": "88",
-      "reward_status": "unclaimed"
+      "name": "Multitasker",
+      "description": "Complete 75 tasks in one month.",
+      "progress": 88,
+      "status": "unclaimed"
     },
     {
       "id": 3,
-      "reward_name": "Coffee Break",
-      "reward_description": "Make coffee for five collegues.",
-      "reward_progress": "0",
-      "reward_status": "unclaimed"
+      "name": "Coffee Break",
+      "description": "Make coffee for five collegues.",
+      "progress": 0,
+      "status": "unclaimed"
     }
   ]
 }
